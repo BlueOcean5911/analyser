@@ -1,0 +1,6 @@
+.env
+data
+node_modules
+**/google.helpers.ts
+
+.DS_Store
